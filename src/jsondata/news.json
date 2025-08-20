@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "image": "/image/Living-room/chair3.png",
+    "title": "Loveseat Sofa",
+    "price": 100.0,
+    "rating": 5,
+    "originalPrice": 200.0,
+    "isNew": true,
+    "discount": "50%",
+    "description": "A compact and stylish loveseat for cozy spaces.\nSoft cushions provide lasting comfort.\nCrafted with premium fabric for a luxurious feel.\nPerfect for modern living rooms."
+  },
+ 
+  {
+    "id": 5,
+    "image": "/image/dining/Dining Table.png",
+    "title": "Round white dinning Table",
+    "price": 40.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "50%",
+    "description": "Toast your bread perfectly every time.\nSleek design fits modern kitchens.\nMultiple browning levels and settings.\nEasy to clean and store."
+  },
+  {
+    "id": 6,
+    "image": "/image/dining/chair2.png",
+    "title": "White Dining Chair",
+    "price": 30.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "50%",
+    "description": "Elegant and sturdy dining chair.\nSmooth white finish for a clean look.\nErgonomic design offers great support.\nPairs beautifully with any dining table."
+  },
+  {
+    "id": 7,
+    "image": "/image/dining/chair5.png",
+    "title": " Black Dining Chair",
+    "price": 30.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "50%",
+    "description": "Sleek black finish adds sophistication.\nComfortable and durable seating.\nIdeal for modern dining areas.\nStackable for easy storage."
+  },
+  {
+    "id": 8,
+    "image": "/image/dining/table19.png",
+    "title": "Round elegant dining table",
+    "price": 30.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "50%",
+    "description": "Minimalist white dining table.\nPerfect for small to medium spaces.\nScratch-resistant surface.\nEasy to assemble and maintain."
+  },
+  {
+    "id": 9,
+    "image": "/image/dining/table12.png",
+    "title": "Long Dining Table",
+    "price": 12.0,
+    "rating": 5,
+    "originalPrice": 24.0,
+    "isNew": true,
+    "discount": "50%",
+    "description": "Spacious table for family meals.\nCrafted from high-quality materials.\nModern design with clean lines.\nSeats up to six people comfortably."
+  },
+  {
+    "id": 10,
+    "image": "/image/bedroom/bedroom.png",
+    "title": "White Drawer unit",
+    "price": 35.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "50%",
+    "description": "Classic white drawer unit with ample storage.\nSmooth-glide drawers for easy use.\nBlends with any bedroom decor.\nSturdy wood construction."
+  },
+  {
+    "id": 11,
+    "image": "/image/bedroom/bedroom9.png",
+    "title": "Cozy Wardrobe",
+    "price": 55.0,
+    "rating": 5,
+    "isNew": true,
+    "discount": "30%",
+    "description": "Spacious wardrobe with elegant design.\nKeeps clothes organized and dust-free.\nSmooth doors with soft-close feature.\nA perfect blend of style and utility."
+  },
+  {
+    "id": 12,
+    "image": "/image/bedroom/bedroom1.png",
+    "title": "Wooden Drawer",
+    "price": 48.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "20%",
+    "description": "Solid wood construction for long-term use.\nSmooth finish enhances room aesthetics.\nIdeal for storing clothes or essentials.\nEasy to clean and move around."
+  },
+  {
+    "id": 13,
+    "image": "/image/Living-room/sofa13.png",
+    "title": " Long Woolen Chair",
+    "price": 50.0,
+    "rating": 5,
+    "isNew": true,
+    "discount": "15%",
+    "description": "A warm and cozy woolen lounge chair.\nPerfect for reading corners or living rooms.\nSoft fabric with plush seating.\nSturdy base ensures long-term comfort."
+  },
+  {
+    "id": 14,
+    "image": "/image/Living-room/sofa16.png",
+    "title": "Woolen Chair",
+    "price": 50.0,
+    "rating": 5,
+    "isNew": true,
+    "discount": "15%",
+    "description": "Modern chair with woolen upholstery.\nElegant curves for a luxurious feel.\nPerfect for relaxation and décor.\nBlends easily with neutral tones."
+  },
+  {
+    "id": 15,
+    "image": "/image/bedroom/white-pillow.png",
+    "title": "Pillow",
+    "price": 15.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "20%",
+    "description": "Soft and fluffy pillow for restful sleep.\nHypoallergenic and breathable fabric.\nSupports neck and head alignment.\nMachine washable for easy care."
+  },
+  
+  {
+    "id": 18,
+    "image": "/image/bedroom/bed6.png",
+    "title": " Simple Bed Frame",
+    "price": 20.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "40%",
+    "description": "Compact toaster for daily use.\nAdjustable settings for perfect toast.\nEasy to clean crumb tray.\nGreat for small kitchens or dorms."
+  },
+  {
+    "id": 19,
+    "image": "/image/kitchen/kitchen16.png",
+    "title": "Modern Kitchen Cupboard",
+    "price": 60.0,
+    "rating": 5,
+    "isNew": true,
+    "discount": "35%",
+    "description": "Stylish and spacious kitchen storage.\nSmooth doors with soft-close hinges.\nGreat for organizing dishes and tools.\nDurable finish resists scratches."
+  },
+  {
+    "id": 20,
+    "image": "/image/kitchen/kitchen4 .png",
+    "title": "White Chicken Cupboard",
+    "price": 28.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "10%",
+    "description": "Elegant cupboard with farmhouse charm.\nIdeal for storing spices and cookware.\nCompact yet roomy shelves.\nFits easily into any kitchen setup."
+  },
+  {
+    "id": 21,
+    "image": "/image/bathroom/bathtub6.png",
+    "title": "Soft Bathtub",
+    "price": 45.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "20%",
+    "description": "Relax in this soft-edged modern bathtub.\nEasy to install and clean.\nNon-slip base ensures safety.\nPerfect for long, luxurious soaks."
+  },
+  {
+    "id": 22,
+    "image": "/image/bathroom/bathroom-cabinet2.png",
+    "title": "Two Purpose Sink",
+    "price": 30.0,
+    "rating": 4,
+    "isNew": true,
+    "discount": "15%",
+    "description": "Dual-function sink with side basin.\nIdeal for bathrooms or utility spaces.\nSmooth ceramic finish.\nCompact design saves space."
+  }
+]
